@@ -1,0 +1,12 @@
+json
+{
+  "name": "USDT.z",
+  "type": "BEP20",
+  "symbol": "USDT.z",
+  "decimals": 18,
+  "description": "USDT.z is a custom token for testing and development.",
+  "website": "https://example.com",
+  "explorer": "https://bscscan.com/token/0xDC96606664228A355e63E73be726C1e29a7b4A7f", 
+  "status": "active",
+  "id": "0xDC96606664228A355e63E73be726C1e29a7b4A7f"
+}
